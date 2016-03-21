@@ -1,0 +1,28 @@
+name: One Sharp Joe
+favicon: null
+layout_spectrum: 0.7530007604509592
+typography_spectrum: 0.5050034835003316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17007624846883118
+  lightness: 0.5815065298229456
+  saturation: 0.44117461470887065
+  rhythmicContrast: 0.3128093397244811
+purpose: []
